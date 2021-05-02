@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    height: 100vh;
+    width: 100%;
+    background-image: url(../img/i1.jpg);
+    border: solid 0px  rgb(22, 160, 40);
+    background-size: cover;
+}
+.gallery{
+    height: 100vh;
+    width: 100%;
+}
+
+.text1{
+    font-size: 20px;
+    padding-top: 50px;
+    text-align: center;
+    color: #fff;
+}
+.text-cont{
+    width: 40%;
+    margin: 30vh 0 0 30%;
+}
+.text-THE{
+    font-size: 20px;
+    color: rgb(153, 151, 151);
+}
+.text-DEEP{
+    font-size: 50px;
+    color: white;
+}
+.text-111{
+    font-size: 18px;
+    color: white;
+}
+.r1{
+    height: 100VH;
+    width: 100%;
+    
+}
+.r2{
+    display: flex;
+    margin: 5%;
+}
+.r3{
+    font-size: 60PX;
+    color: #000;
+}
+.r4{
+    font-size: 25px;
+    color: #000;
+}
+.r5{
+width: 100%;
+display: flex;
+justify-content: center;
+}
+.r7{
+    width: 20%;
+    height: 50%;
+    margin-left:5%;
+
+}
+.t1{
+    width: 60%;
+    margin: auto;
+    margin-top: 10%;
+}
+.img3{
+height: 20%;
+width: 60%;
+}
+.img2{
+    margin-bottom:25px;
+}
+.s1{
+    height: 30vh;
+    width: 100%;
+    background-image: url(../img/i5.jpg);
+    background-size: cover;
+}
+.s2{
+    color: cornsilk;
+    border-style:groove;
+    font-size: 40px;
+    margin: auto;
+    text-align: center;
+    margin-top:40px;  
+    width:13%;
+}
+.s3{
+    font-size: 20px;
+    color: cornsilk;
+    text-align: center;
+}
